@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Cypress reports and screenshots
+cypress/screenshots/
+cypress/videos/
+
+# macOS system files
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Output de testes (se usado)
+coverage/
