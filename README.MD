@@ -6,7 +6,7 @@ Este projeto automatiza o fluxo de adicionar um produto ao carrinho na Amazon Br
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/AlexandreTI-AUT/cypress-desafio-tecnico-axur
    cd nome-do-repo
    ```
 
